@@ -1,3 +1,8 @@
 new message 
 another message
+<<<<<<< HEAD
 different message
+=======
+new message
+
+>>>>>>> new-branch
