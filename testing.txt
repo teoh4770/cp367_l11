@@ -1,2 +1,3 @@
-new message
-bad message
+new message 
+another message
+
